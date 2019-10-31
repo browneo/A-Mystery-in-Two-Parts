@@ -16,7 +16,7 @@ CREATE TABLE "departments" (
 Select * from departments
 
 
-REATE TABLE "employees" (
+CREATE TABLE "employees" (
     "emp_no" INT   NOT NULL,
     "birth_date" DATE   NOT NULL,
     "first_name" VARCHAR   NOT NULL,
